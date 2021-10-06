@@ -20,7 +20,7 @@ public class App
             firstNumber, secondNumber,
             Operations.substraction(firstNumber, secondNumber));
 
-        System.out.format("The multiplication between %d and %d is %d\n",
+        System.out.format("The multiplication between %d and %d is %d!\n",
             firstNumber, secondNumber,
             Operations.multiplication(firstNumber, secondNumber));
 
