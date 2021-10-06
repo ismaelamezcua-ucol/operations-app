@@ -24,6 +24,6 @@ public class App
             firstNumber, secondNumber,
             Operations.multiplication(firstNumber, secondNumber));
 
-        // Comment, update 2
+        // Comment, update 3
     }
 }
